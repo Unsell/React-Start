@@ -1,0 +1,12 @@
+div{
+   .a{
+   	display:block;
+   }
+}
+.b{
+ background: red;
+ display:flex;
+ .a{
+ background: yellow;
+ }
+}

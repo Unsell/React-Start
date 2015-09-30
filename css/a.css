@@ -1,0 +1,11 @@
+div .a {
+  display: block; }
+
+.b {
+  background: red;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+  .b .a {
+    background: yellow; }
